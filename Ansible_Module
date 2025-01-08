@@ -1,0 +1,4 @@
+when we use register module it will save output into the register variable and use it for later 
+1- output.stdout --> for standard output
+2- output.stderr --> for error
+3- rc=!0 --> means its fail
